@@ -1,12 +1,11 @@
 # technicalTask
 
-Set up:
+The test for the technical challenge was implemented using Selenium and Mocha.
 
-`npm init -y`
-
-`npm install --save selenium-webdriver chromedriver geckodriver`
-
-`npm install -g mocha`
+Requirements:
+- Node and npm (https://docs.npmjs.com/downloading-and-installing-node-js-and-npm)
+- Selenium `npm install --save selenium-webdriver chromedriver geckodriver`
+- Mocha `npm install -g mocha`
 
 To run the test, run the following on the root folder:
 
